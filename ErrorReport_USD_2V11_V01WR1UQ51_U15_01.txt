@@ -1,0 +1,578 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+	Unknown EdgeType || F_data || Curve || 378_496
+	Unknown EdgeType || F_data || Curve || 378_496
+	Unknown EdgeType || F_data || Curve || 378_512
+	Unknown EdgeType || F_data || Curve || 378_512
+
+FaceVec Sheet Error Report
+
+	Body prototype name missing || FaceVec || 81141_466
+	Body prototype name missing || FaceVec || 81703_466
+	Body prototype name missing || FaceVec || 81699_466
+	Body prototype name missing || FaceVec || 45056_466
+	Body prototype name missing || FaceVec || 43288_466
+	Body prototype name missing || FaceVec || 43270_466
+	Body prototype name missing || FaceVec || 79628_466
+	Unknown FaceType || FaceVec || Surface || 79596_466
+	Body prototype name missing || FaceVec || 79596_466
+	Unknown FaceType || FaceVec || Surface || 79602_466
+	Body prototype name missing || FaceVec || 79602_466
+	Unknown FaceType || FaceVec || Surface || 79660_466
+	Body prototype name missing || FaceVec || 79660_466
+	Body prototype name missing || FaceVec || 79642_466
+	Unknown FaceType || FaceVec || Surface || 79584_466
+	Body prototype name missing || FaceVec || 79584_466
+	Unknown FaceType || FaceVec || Surface || 79578_466
+	Body prototype name missing || FaceVec || 79578_466
+	Unknown FaceType || FaceVec || Surface || 79572_466
+	Body prototype name missing || FaceVec || 79572_466
+	Unknown FaceType || FaceVec || Surface || 79590_466
+	Body prototype name missing || FaceVec || 79590_466
+	Body prototype name missing || FaceVec || 79636_466
+	Body prototype name missing || FaceVec || 45027_466
+	Body prototype name missing || FaceVec || 45015_466
+	Body prototype name missing || FaceVec || 79652_466
+	Body prototype name missing || FaceVec || 80042_466
+	Body prototype name missing || FaceVec || 80585_466
+	Body prototype name missing || FaceVec || 79656_466
+	Body prototype name missing || FaceVec || 42007_466
+	Body prototype name missing || FaceVec || 79646_466
+	Body prototype name missing || FaceVec || 81684_466
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 27453_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 28017_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1668_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1679_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1687_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1695_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 15101_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 15649_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 20931_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 21476_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 28013_469
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 27998_469
+	Body prototype name missing || FaceVec || 43527_472
+	Body prototype name missing || FaceVec || 42848_472
+	Body prototype name missing || FaceVec || 42303_472
+	Body prototype name missing || FaceVec || 41352_472
+	Body prototype name missing || FaceVec || 41372_472
+	Body prototype name missing || FaceVec || 40265_472
+	Body prototype name missing || FaceVec || 44091_472
+	Body prototype name missing || FaceVec || 44087_472
+	Body prototype name missing || FaceVec || 44072_472
+	Body prototype name missing || FaceVec || 44637_472
+	Body prototype name missing || FaceVec || 44643_472
+	Body prototype name missing || FaceVec || 44649_472
+	Unknown FaceType || FaceVec || Surface || 44653_472
+	Body prototype name missing || FaceVec || 44653_472
+	Body prototype name missing || FaceVec || 44657_472
+	Body prototype name missing || FaceVec || 44597_472
+	Unknown FaceType || FaceVec || Surface || 44603_472
+	Body prototype name missing || FaceVec || 44603_472
+	Body prototype name missing || FaceVec || 44609_472
+	Unknown FaceType || FaceVec || Surface || 44615_472
+	Body prototype name missing || FaceVec || 44615_472
+	Body prototype name missing || FaceVec || 40090_489
+	Body prototype name missing || FaceVec || 25552_489
+	Body prototype name missing || FaceVec || 25954_489
+	Body prototype name missing || FaceVec || 33138_489
+	Body prototype name missing || FaceVec || 27171_489
+	Body prototype name missing || FaceVec || 26626_489
+	Body prototype name missing || FaceVec || 33212_489
+	Unknown FaceType || FaceVec || Surface || 25938_489
+	Body prototype name missing || FaceVec || 25938_489
+	Body prototype name missing || FaceVec || 25956_489
+	Body prototype name missing || FaceVec || 25576_489
+	Body prototype name missing || FaceVec || 25568_489
+	Body prototype name missing || FaceVec || 25528_489
+	Body prototype name missing || FaceVec || 25962_489
+	Body prototype name missing || FaceVec || 25536_489
+	Body prototype name missing || FaceVec || 25950_489
+	Body prototype name missing || FaceVec || 41078_489
+	Body prototype name missing || FaceVec || 40278_489
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 57548_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46179_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45434_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46005_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45803_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45042_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45034_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44928_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44920_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44916_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44924_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45030_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45038_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46149_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46046_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46186_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46173_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58110_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58106_494
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58091_494
+	Stock size missing || FaceVec || Row#93
+	Body prototype name missing || FaceVec || 180_496
+	Stock size missing || FaceVec || Row#94
+	Body prototype name missing || FaceVec || 228_496
+	Stock size missing || FaceVec || Row#95
+	Body prototype name missing || FaceVec || 274_496
+	Stock size missing || FaceVec || Row#96
+	Body prototype name missing || FaceVec || 320_496
+	Stock size missing || FaceVec || Row#97
+	Body prototype name missing || FaceVec || 376_496
+	Stock size missing || FaceVec || Row#98
+	Body prototype name missing || FaceVec || 384_496
+	Stock size missing || FaceVec || Row#99
+	Body prototype name missing || FaceVec || 494_496
+	Stock size missing || FaceVec || Row#100
+	Body prototype name missing || FaceVec || 537_496
+	Stock size missing || FaceVec || Row#101
+	Body prototype name missing || FaceVec || 552_496
+	Stock size missing || FaceVec || Row#102
+	Body prototype name missing || FaceVec || 555_496
+	Stock size missing || FaceVec || Row#103
+	Body prototype name missing || FaceVec || 557_496
+	Stock size missing || FaceVec || Row#104
+	Body prototype name missing || FaceVec || 559_496
+	Stock size missing || FaceVec || Row#105
+	Body prototype name missing || FaceVec || 561_496
+	Stock size missing || FaceVec || Row#106
+	Body prototype name missing || FaceVec || 3007_496
+	Stock size missing || FaceVec || Row#107
+	Body prototype name missing || FaceVec || 2956_496
+	Stock size missing || FaceVec || Row#108
+	Body prototype name missing || FaceVec || 2972_496
+	Stock size missing || FaceVec || Row#109
+	Body prototype name missing || FaceVec || 3228_496
+	Stock size missing || FaceVec || Row#110
+	Body prototype name missing || FaceVec || 3232_496
+	Stock size missing || FaceVec || Row#111
+	Body prototype name missing || FaceVec || 3236_496
+	Stock size missing || FaceVec || Row#112
+	Body prototype name missing || FaceVec || 3242_496
+	Stock size missing || FaceVec || Row#113
+	Body prototype name missing || FaceVec || 3246_496
+	Stock size missing || FaceVec || Row#114
+	Body prototype name missing || FaceVec || 3250_496
+	Unknown FaceType || FaceVec || Surface || 3214_496
+	Stock size missing || FaceVec || Row#115
+	Body prototype name missing || FaceVec || 3214_496
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 78730_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 79451_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 53603_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 53614_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 53622_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 53630_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 65878_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 66421_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 76693_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 77236_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 77792_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 78335_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 79435_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 79397_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 79407_498
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  4"  MM X  180MM MM 
+	Body prototype name missing || FaceVec || 79417_498
+	Body prototype name missing || FaceVec || 40090_509
+	Body prototype name missing || FaceVec || 25552_509
+	Body prototype name missing || FaceVec || 25954_509
+	Body prototype name missing || FaceVec || 33138_509
+	Body prototype name missing || FaceVec || 27171_509
+	Body prototype name missing || FaceVec || 26626_509
+	Body prototype name missing || FaceVec || 33212_509
+	Unknown FaceType || FaceVec || Surface || 25938_509
+	Body prototype name missing || FaceVec || 25938_509
+	Body prototype name missing || FaceVec || 25956_509
+	Body prototype name missing || FaceVec || 25576_509
+	Body prototype name missing || FaceVec || 25568_509
+	Body prototype name missing || FaceVec || 25528_509
+	Body prototype name missing || FaceVec || 25962_509
+	Body prototype name missing || FaceVec || 25536_509
+	Body prototype name missing || FaceVec || 25950_509
+	Body prototype name missing || FaceVec || 41078_509
+	Body prototype name missing || FaceVec || 40278_509
+	Body prototype name missing || FaceVec || 43527_510
+	Body prototype name missing || FaceVec || 42848_510
+	Body prototype name missing || FaceVec || 42303_510
+	Body prototype name missing || FaceVec || 41352_510
+	Body prototype name missing || FaceVec || 41372_510
+	Body prototype name missing || FaceVec || 40265_510
+	Body prototype name missing || FaceVec || 44091_510
+	Body prototype name missing || FaceVec || 44087_510
+	Body prototype name missing || FaceVec || 44072_510
+	Body prototype name missing || FaceVec || 44637_510
+	Body prototype name missing || FaceVec || 44643_510
+	Body prototype name missing || FaceVec || 44649_510
+	Unknown FaceType || FaceVec || Surface || 44653_510
+	Body prototype name missing || FaceVec || 44653_510
+	Body prototype name missing || FaceVec || 44657_510
+	Body prototype name missing || FaceVec || 44597_510
+	Unknown FaceType || FaceVec || Surface || 44603_510
+	Body prototype name missing || FaceVec || 44603_510
+	Body prototype name missing || FaceVec || 44609_510
+	Unknown FaceType || FaceVec || Surface || 44615_510
+	Body prototype name missing || FaceVec || 44615_510
+	Body prototype name missing || FaceVec || 81141_511
+	Body prototype name missing || FaceVec || 81703_511
+	Body prototype name missing || FaceVec || 81699_511
+	Body prototype name missing || FaceVec || 45056_511
+	Body prototype name missing || FaceVec || 43288_511
+	Body prototype name missing || FaceVec || 43270_511
+	Body prototype name missing || FaceVec || 79628_511
+	Unknown FaceType || FaceVec || Surface || 79596_511
+	Body prototype name missing || FaceVec || 79596_511
+	Unknown FaceType || FaceVec || Surface || 79602_511
+	Body prototype name missing || FaceVec || 79602_511
+	Unknown FaceType || FaceVec || Surface || 79660_511
+	Body prototype name missing || FaceVec || 79660_511
+	Body prototype name missing || FaceVec || 79642_511
+	Unknown FaceType || FaceVec || Surface || 79584_511
+	Body prototype name missing || FaceVec || 79584_511
+	Unknown FaceType || FaceVec || Surface || 79578_511
+	Body prototype name missing || FaceVec || 79578_511
+	Unknown FaceType || FaceVec || Surface || 79572_511
+	Body prototype name missing || FaceVec || 79572_511
+	Unknown FaceType || FaceVec || Surface || 79590_511
+	Body prototype name missing || FaceVec || 79590_511
+	Body prototype name missing || FaceVec || 79636_511
+	Body prototype name missing || FaceVec || 45027_511
+	Body prototype name missing || FaceVec || 45015_511
+	Body prototype name missing || FaceVec || 79652_511
+	Body prototype name missing || FaceVec || 80042_511
+	Body prototype name missing || FaceVec || 80585_511
+	Body prototype name missing || FaceVec || 79656_511
+	Body prototype name missing || FaceVec || 42007_511
+	Body prototype name missing || FaceVec || 79646_511
+	Body prototype name missing || FaceVec || 81684_511
+	Stock size missing || FaceVec || Row#192
+	Body prototype name missing || FaceVec || 180_512
+	Stock size missing || FaceVec || Row#193
+	Body prototype name missing || FaceVec || 228_512
+	Stock size missing || FaceVec || Row#194
+	Body prototype name missing || FaceVec || 274_512
+	Stock size missing || FaceVec || Row#195
+	Body prototype name missing || FaceVec || 320_512
+	Stock size missing || FaceVec || Row#196
+	Body prototype name missing || FaceVec || 376_512
+	Stock size missing || FaceVec || Row#197
+	Body prototype name missing || FaceVec || 384_512
+	Stock size missing || FaceVec || Row#198
+	Body prototype name missing || FaceVec || 494_512
+	Stock size missing || FaceVec || Row#199
+	Body prototype name missing || FaceVec || 537_512
+	Stock size missing || FaceVec || Row#200
+	Body prototype name missing || FaceVec || 552_512
+	Stock size missing || FaceVec || Row#201
+	Body prototype name missing || FaceVec || 555_512
+	Stock size missing || FaceVec || Row#202
+	Body prototype name missing || FaceVec || 557_512
+	Stock size missing || FaceVec || Row#203
+	Body prototype name missing || FaceVec || 559_512
+	Stock size missing || FaceVec || Row#204
+	Body prototype name missing || FaceVec || 561_512
+	Stock size missing || FaceVec || Row#205
+	Body prototype name missing || FaceVec || 3007_512
+	Stock size missing || FaceVec || Row#206
+	Body prototype name missing || FaceVec || 2956_512
+	Stock size missing || FaceVec || Row#207
+	Body prototype name missing || FaceVec || 2972_512
+	Stock size missing || FaceVec || Row#208
+	Body prototype name missing || FaceVec || 3228_512
+	Stock size missing || FaceVec || Row#209
+	Body prototype name missing || FaceVec || 3232_512
+	Stock size missing || FaceVec || Row#210
+	Body prototype name missing || FaceVec || 3236_512
+	Stock size missing || FaceVec || Row#211
+	Body prototype name missing || FaceVec || 3242_512
+	Stock size missing || FaceVec || Row#212
+	Body prototype name missing || FaceVec || 3246_512
+	Stock size missing || FaceVec || Row#213
+	Body prototype name missing || FaceVec || 3250_512
+	Unknown FaceType || FaceVec || Surface || 3214_512
+	Stock size missing || FaceVec || Row#214
+	Body prototype name missing || FaceVec || 3214_512
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 27453_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 28017_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1668_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1679_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1687_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 1695_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 15101_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 15649_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 20931_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 21476_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 28013_513
+	Inconsistent Stock size || FaceVec || 1/2"  MM X  2 1/2"  MM X  94MM MM 
+	Body prototype name missing || FaceVec || 27998_513
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 57548_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46179_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45434_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46005_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45803_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45042_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45034_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44928_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44920_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44916_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 44924_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45030_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 45038_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46149_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46046_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46186_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 46173_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58110_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58106_514
+	Inconsistent Stock size || FaceVec || 1/4"  MM X  1 3/4"  MM X  92MM MM 
+	Body prototype name missing || FaceVec || 58091_514
+
+Component Name Error Report
+
+	DB Part name missing || ComponentName || 2V11_V01WR1UQ51_U15_01
+	Nearest Blade missing || ComponentName || U535M_A
+	Nearest Blade missing || ComponentName || U531M_A
+	Component instance tag missing ||  F_Data  || 474
+	Component instance tag missing || FaceVec || 474
+	Component instance tag missing ||  F_Data  || 499
+	Component instance tag missing || FaceVec || 499
+	Nearest Blade missing || ComponentName || U535M_A
+	Nearest Blade missing || ComponentName || U531M_A
+
+Mating Info Sheet Error Report
+
+
+First_Part_Mating_Info Sheet Error Report
+
+	No. of records in Unit_Info and First_Part_Mating_Info Sheet NOT equal
+
+Bounding_Box_Info Sheet Error Report
+
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || U535M_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || U531M_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ALB370M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ALB415M_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || APR045M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || APFSPBA_D16_05_A30_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ARL150L_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ARL125L_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || V211_V01WR1UQ51_U15_002_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body name missing in Component Sheet ||Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U15_003_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || APR045M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ALB415M_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || VU_63_1_BR2_A05_T12_prt
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || U535M_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || U531M_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ALB370M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || AAB201M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || AAB301M_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || APFSPBA_D16_05_A30_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || GRLA-1_8-QS-8-D_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || GRLA-1_8-QS-8-D_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI20U_CA40_AP6X2_H1141_S1590W_BS2_0_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ARL150L_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body name missing in Component Sheet ||Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || BI2_CRS260_AP4X2_H1141_S34_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || GRLA_3_8_NPT_B_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || GRLA_3_8_NPT_B_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ARL125L_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body name missing in Component Sheet ||Bounding_Box_Info || SB4N125A010D001A000_Extended_a
+	Body Tag missing in Component Sheet || Bounding_Box_Info || SB4N125A010D001A000_Extended_a
