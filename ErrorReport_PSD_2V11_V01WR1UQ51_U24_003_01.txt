@@ -1,0 +1,30 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+
+FaceVec Sheet Error Report
+
+	Unknown FaceType || FaceVec || Surface || FACE 17
+	Unknown FaceType || FaceVec || Surface || FACE 18
+	Unknown FaceType || FaceVec || Surface || FACE 19
+	Unknown FaceType || FaceVec || Surface || FACE 20
+	Unknown FaceType || FaceVec || Surface || FACE 21
+
+Misc Info Error Report
+
+	NC Part contact face NOT empty || Misc_Info ||
+
+Model View Cosines sheet error report
+
+
+Body Name Sheet Error Report
+
+
+Body LCS sheet error report
+
+
+MATING BODY INFO sheet error report
+
