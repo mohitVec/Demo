@@ -1,6 +1,5 @@
 name: Store readme in Drive
-on:
-  push:
+on: [push]
 jobs:
   buildAndTestForSomePlatforms:
     name: Upload readme to drive
