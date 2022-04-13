@@ -1,0 +1,109 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+
+FaceVec Sheet Error Report
+
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 67712_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 67786_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50261_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 49441_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 49452_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50263_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50227_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 53944_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 53934_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 53924_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50877_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 51422_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 52028_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 52573_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 53255_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 54582_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 55127_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 61242_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 61787_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50219_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 50223_755
+	Inconsistent Stock size || FaceVec || 1 1/8"  MM X  110MM  MM X  217MM MM 
+	Body prototype name missing || FaceVec || 67782_755
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 60829_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 58991_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 55940_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 60223_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 59678_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 58979_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 58085_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 57531_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 56637_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 58907_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 57897_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 57459_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 56449_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 55908_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 55942_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 61393_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 61389_756
+	Inconsistent Stock size || FaceVec || 1"  MM X  3 1/8"  MM X  63MM MM 
+	Body prototype name missing || FaceVec || 61374_756
+
+Component Name Error Report
+
+	DB Part name missing || ComponentName || 2V11_V01WR1UQ51_U22_01
+
+Mating Info Sheet Error Report
+
+
+First_Part_Mating_Info Sheet Error Report
+
+
+Bounding_Box_Info Sheet Error Report
+
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U22-001_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 2V11_V01WR1UQ51_U22-002_01
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ARL175L_001
+	Body Tag missing in Component Sheet || Bounding_Box_Info || AAB351M_002
+	Body Tag missing in Component Sheet || Bounding_Box_Info || 1291_T_12R_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASP450N_A
+	Body Tag missing in Component Sheet || Bounding_Box_Info || ASH4N_001
