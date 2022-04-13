@@ -1,8 +1,8 @@
 name: Store readme in Drive
-echo "mohit sharma"
 on:
   push: { branches: [main] }
 jobs:
+  echo "mohit sharma"
   buildAndTestForSomePlatforms:
     name: Upload readme to drive
     runs-on: window-latest
