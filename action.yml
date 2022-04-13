@@ -1,6 +1,6 @@
 name: Store readme in Drive
 on:
-  push: { branches: [main] }
+  push:
 jobs:
   echo "mohit sharma"
   buildAndTestForSomePlatforms:
