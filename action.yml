@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   my_job:
-    runs-on: ubuntu-latest # windows-latest
+    runs-on: windows-latest # windows-latest
 
     steps:
 
