@@ -19,9 +19,9 @@ jobs:
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
-          credentials: ${{ secrets.GST_SECRET }}
+          credentials: ${{GST_SECRET }}
           filename: "test.txt"
-          folderId: ${{ secrets.FOLDER_SECRET }}
+          folderId: ${{FOLDER_SECRET }}
           #name: "documentation.zip" # optional string
           #overwrite: "true" # optional boolean
 
