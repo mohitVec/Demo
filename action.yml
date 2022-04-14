@@ -15,7 +15,11 @@ jobs:
       #    sudo apt-get update
       #    sudo apt-get install zip
       #    zip -r archive.zip *
-
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: 'npm'
+      - run: npm install
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
