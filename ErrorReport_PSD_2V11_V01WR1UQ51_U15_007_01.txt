@@ -1,0 +1,34 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+	Edge center (0,0,0) || F_data || Circular || FACE 3
+	Unknown EdgeType || F_data || Curve || FACE 5
+	Edge center (0,0,0) || F_data || Circular || FACE 8
+	Edge center (0,0,0) || F_data || Circular || FACE 8
+	Unknown EdgeType || F_data || Curve || FACE 9
+	Edge center (0,0,0) || F_data || Circular || FACE 11
+
+FaceVec Sheet Error Report
+
+	Unknown FaceType || FaceVec || Surface || FACE 23
+
+Misc Info Error Report
+
+	Stock Size missing || Misc_Info || 
+	NC Part contact face NOT empty || Misc_Info ||
+
+Model View Cosines sheet error report
+
+
+Body Name Sheet Error Report
+
+	Stock size missing || BodyName || Body 1
+
+Body LCS sheet error report
+
+
+MATING BODY INFO sheet error report
+
