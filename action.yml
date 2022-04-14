@@ -20,9 +20,9 @@ jobs:
       #    node-version: '14'
       #    cache: 'npm'
       #- run: npm install
-      runs:
-          using: 'node16'
-         main: 'main.js'
+     # runs:
+     #     using: 'node16'
+     #    main: 'main.js'
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
