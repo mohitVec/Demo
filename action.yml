@@ -23,6 +23,7 @@ jobs:
      # runs:
      #     using: 'node16'
      #    main: 'main.js'
+     run: |
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
