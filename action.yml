@@ -19,8 +19,8 @@ jobs:
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
-          credentials: ${{ GST_SECRET }}
+          credentials: GST_SECRET
           filename: "test.zip"
-          folderId: ${{ FOLDER_SECRET }}
+          folderId: FOLDER_SECRET
           name: "documentation.zip" # optional string
           overwrite: "true" # optional boolean
