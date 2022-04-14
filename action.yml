@@ -1,4 +1,4 @@
-> Run cat ./mohitVec/Demo/action.yml
+
 name: Main
 on: [push]
 
@@ -16,7 +16,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install zip
           zip -r test.zip *
-
+      run: |
+          cat ./mohitVec/Demo/action.yml
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
