@@ -1,0 +1,38 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+	Unknown EdgeType || F_data || Curve || FACE 3
+	Unknown EdgeType || F_data || Curve || FACE 5
+	Unknown EdgeType || F_data || Curve || FACE 5
+	Unknown EdgeType || F_data || Curve || FACE 6
+	Unknown EdgeType || F_data || Curve || FACE 6
+	Unknown EdgeType || F_data || Curve || FACE 7
+	Unknown EdgeType || F_data || Curve || FACE 7
+	Unknown EdgeType || F_data || Curve || FACE 15
+
+FaceVec Sheet Error Report
+
+	Unknown FaceType || FaceVec || Surface || FACE 5
+	Unknown FaceType || FaceVec || Surface || FACE 6
+	Unknown FaceType || FaceVec || Surface || FACE 7
+	Unknown FaceType || FaceVec || Surface || FACE 8
+	Unknown FaceType || FaceVec || Surface || FACE 9
+
+Misc Info Error Report
+
+	NC Part contact face NOT empty || Misc_Info ||
+
+Model View Cosines sheet error report
+
+
+Body Name Sheet Error Report
+
+
+Body LCS sheet error report
+
+
+MATING BODY INFO sheet error report
+
