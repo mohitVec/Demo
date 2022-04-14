@@ -21,7 +21,9 @@ jobs:
       #    cache: 'npm'
       #- run: npm install
       - name: Upload to gdrive
-        uses: mohitVec/Demo@main
+        #uses: mohitVec/Demo@main
+        uses: mohitVec/Demo/.github/workflows@main
+
         with:
           credentials: secrets.GST_SECRET
           filename: "test.txt"
