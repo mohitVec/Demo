@@ -16,8 +16,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install zip
           zip -r test.zip *
-      run: |
-          cat ./mohitVec/Demo/action.yml
+      runs:
+          using: "composite"
+          steps: 
+            steps:
+            - name: Echo
+              shell: bash
+              run: |
+                echo Heyyyyy
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         with:
