@@ -1,0 +1,32 @@
+
+Config sheet error report
+
+
+F_Data Sheet Error Report
+
+	Edge center (0,0,0) || F_data || Circular || FACE 13
+	Edge center (0,0,0) || F_data || Circular || FACE 14
+	Edge center (0,0,0) || F_data || Circular || FACE 14
+	Edge center (0,0,0) || F_data || Circular || FACE 15
+
+FaceVec Sheet Error Report
+
+	Unknown FaceType || FaceVec || Surface || FACE 3
+	Unknown FaceType || FaceVec || Surface || FACE 5
+	Unknown FaceType || FaceVec || Surface || FACE 11
+	Face centers are (0,0,0) || FaceVec || Planar || FACE 14
+
+Misc Info Error Report
+
+
+Model View Cosines sheet error report
+
+
+Body Name Sheet Error Report
+
+
+Body LCS sheet error report
+
+
+MATING BODY INFO sheet error report
+
