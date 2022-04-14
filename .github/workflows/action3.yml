@@ -22,7 +22,7 @@ jobs:
       #- run: npm install
       - name: Upload to gdrive
         #uses: mohitVec/Demo@main
-        uses: mohitVec/Demo/.github/workflows@main
+        uses: mohitVec/Main@main
 
         with:
           credentials: secrets.GST_SECRET
