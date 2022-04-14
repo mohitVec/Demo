@@ -1,7 +1,26 @@
-name: first-github-action
+name: Main
 on: [push]
+
 jobs:
-  write-to-console:
-    runs-on: ubuntu-latest
+  my_job:
+    runs-on: windows-latest
+
     steps:
-      - run: echo 'Hello world!'
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      #- name: Archive files
+      #  run: |
+      #    sudo apt-get update
+      #    sudo apt-get install zip
+      #    zip -r archive.zip *
+
+      - name: Upload to gdrive
+        uses: mohitVec/Demo@main
+        with:
+          credentials: ${{ secrets.GST_SECRET }}
+          filename: "test.txt"
+          folderId: ${{ secrets.FOLDER_SECRET }}
+          #name: "documentation.zip" # optional string
+          #overwrite: "true" # optional boolean
