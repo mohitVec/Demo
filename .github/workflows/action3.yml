@@ -8,7 +8,7 @@ jobs:
     steps:
 
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       #- name: Archive files
       #  run: |
@@ -21,8 +21,9 @@ jobs:
       #    cache: 'npm'
       #- run: npm install
       - name: Upload to gdrive
-        #uses: mohitVec/Demo@main
-        uses: mohitVec/Main@main
+        #uses: actions/checkout@v2
+        uses: mohitVec/Demo@main
+      #  uses: mohitVec/Main@main
 
         with:
           credentials: secrets.GST_SECRET
