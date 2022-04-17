@@ -18,13 +18,20 @@ jobs:
           sudo apt-get update
           sudo apt-get install zip
           zip -r test.zip *
-      
+      - run: |
+          using: "composite"
+          steps: 
+            steps:
+            - name: Echo
+              shell: bash
+              run: |
+                echo Heyyyyy
       - name: Upload to gdrive
         uses: mohitVec/Demo@main
         
         with:
-          credentials: GST_SECRET
+          credentials: ${{secrets.GST_SECRET}}
           filename: "test.zip"
-          folderId: FOLDER_SECRET
-          name: "documentation.zip" # optional string
-          overwrite: "true" # optional boolean
+          folderId: ${{secrets.FOLDER_SECRET}}
+         # name: "documentation.zip" # optional string
+          #overwrite: "true" # optional boolean
