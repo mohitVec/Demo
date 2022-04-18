@@ -30,8 +30,8 @@ jobs:
         uses: mohitVec/Demo@main
         
         with:
-          credentials: ${{secrets.GST_SECRET}}
+          credentials: GST_SECRET
           filename: "test.zip"
-          folderId: ${{secrets.FOLDER_SECRET}}
+          folderId: FOLDER_SECRET
          # name: "documentation.zip" # optional string
           #overwrite: "true" # optional boolean
