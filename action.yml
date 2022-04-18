@@ -1,4 +1,4 @@
-
+> Run cat ./github-actions/test/action.yml
 name: Main
 on: [push]
 
