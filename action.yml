@@ -1,8 +1,9 @@
-> Run cat ./github-actions/test/action.yml
+
 name: Main
 on: [push]
 
 jobs:
+  > Run cat ./mohitVec/Demo/action.yml
   my_job:
     runs-on: windows-latest
 
@@ -18,6 +19,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install zip
           zip -r test.zip *
+          
+       
       - run: |
           using: "composite"
           steps: 
