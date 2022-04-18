@@ -3,7 +3,7 @@ name: Main
 on: [push]
 
 jobs:
-  > Run cat ./mohitVec/Demo/action.yml
+ 
   my_job:
     runs-on: windows-latest
 
@@ -20,7 +20,7 @@ jobs:
           sudo apt-get install zip
           zip -r test.zip *
           
-       
+      - run: cat ./mohitVec/Demo/action.yml
       - run: |
           using: "composite"
           steps: 
